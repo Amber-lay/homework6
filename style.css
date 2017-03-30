@@ -77,9 +77,9 @@ ul,li{
 }
 /* ------------------导航样式结束-------------------------------*/
 /* ------------------banner 开始-------------------------------*/
-.banner{
+.banner img{
 	width: 100%;
-	background: url("../img/banner1.jpg") no-repeat;
+	background: url("../banner1.jpg") no-repeat;
 	background-size: 100%;
 }
 .swiper-container{
