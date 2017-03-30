@@ -50,7 +50,7 @@
 	  nextButton: '.swiper-button-next',
       nextButton: '.swiper-button-prev',
    })
-   var width=($(document).width());
+   var width=$(document).width();
    var height=width*300/2000;
    $('.swiper-container').css('height',height+'px');
  </script>
