@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <meta charset="utf-8">
@@ -32,7 +31,7 @@
    </div>
    <div class="swiper-container">
      <div class="swiper-wrapper">
-	   <div class="banner swiper-slide"></div>
+	   <div class="banner swiper-slide"><img src="banner1.jpg"></div>
 	   <div class="swiper-slide">slide 2</div>
 	   <div class="swiper-slide">slide 3</div>
 	 </div>
