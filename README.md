@@ -36,10 +36,9 @@
 	   <div class="swiper-slide">slide 3</div>
 	 </div>
 	 <!--如果需要导航按钮-->
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-button-next"></div>
+         <div class="swiper-button-prev"></div>
+         <div class="swiper-button-next"></div>
   </div>
-</div>
 </body>
 <!--先安装jquery 依赖 就放在最上面-->
 <script src="jquery-3.1.1.min.js"></script>
